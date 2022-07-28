@@ -2,7 +2,7 @@
 
 ### Short Project Description
 
-Investigation of short-term price elasticities of space heating demand in Germany based on an empirical dataset of energy bills at the building level. The time period between 2008 and 2019 is investigated with a total of almost 2.8 million observations. Use of fixed-effects models on the full sample and Bayesian multilevel partial pooling models on a subsample of the data. Besides overall price elasticities also the heterogeneity in price responsiveness is investigated.
+Investigation of short-term price elasticities of space heating demand in Germany based on an empirical dataset of energy bills at the building level. The time period between 2008 and 2019 is investigated with a total of almost 2.8 million observations. Use of fixed-effects models on the full sample and Bayesian multilevel partial pooling models on a subsample of the data. Besides overall price elasticities, also the heterogeneity in price responsiveness is investigated.
 
 ### Organisational Aspects
 
